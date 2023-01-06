@@ -14,3 +14,9 @@ alx-higher_level_programming
 5- 0x05. Python - Exceptions
 
 6- 0x06. Python - Classes and Objects
+
+7- 0x07. Python - Test-driven development
+
+8- 0x08. Python - More Classes and Objects 
+
+9- 0x09. Python - Everything is object 
